@@ -9,6 +9,11 @@ This repository contains beginner-level Python programs created while learning p
 - Functions
 - Basic Problem Solving
 
+## Mini Projects
+- Simple Calculator
+- Even or Odd Checker
+- Number Guessing Game
+
 ## Purpose
 To strengthen programming logic and build a solid foundation in Python.
 
